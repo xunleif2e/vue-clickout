@@ -1,0 +1,6 @@
+/* reset */
+body,dl,dd,h1,h2,h3,h4,h5,h6,p,form{margin:0;}ol,ul,input{margin:0; padding:0;}body,button,input,select,textarea{font:12px/1.5 \5FAE\8F6F\96C5\9ED1,tahoma,arial,\5b8b\4f53,sans-serif;outline:none;}ul,ol{list-style:none;}a{text-decoration:none;outline:0 none;color:#000;}img{border:0;}table{border-collapse:collapse;border-spacing:0;}h1,h2,h3,h4,h5,h6{font-weight: normal;}img{width: 100%;}i,em{font-style: normal;}
+:root{--colorLight:#0f97ff;--colorHover:#41a1ff}
+body{overflow-x: hidden;}
+::-webkit-scrollbar{width:6px;background:transparent;}
+::-webkit-scrollbar-thumb{background:rgba(0,0,0,.12);border-radius: 6px;margin: 0 2px 0 0;}
