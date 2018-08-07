@@ -1,7 +1,10 @@
 # @xunlei/vue-clickout
 
-> vue clickout,轻松解决“点击空白处消失”这种问题
+> Vue clickout,轻松解决“点击空白处消失”这种问题
 
+## 在线Demo
+
+[https://xunleif2e.github.io/vue-clickout/demo/dist/index.html](https://xunleif2e.github.io/vue-clickout/demo/dist/index.html)
 
 ## Installation
 
@@ -82,7 +85,7 @@ export default {
 
 参数 | 说明 | 类型 | 
 | :-- | :-- | :-- |
-| exceptRefs | 要排除的Ref | Array 不传参时默认为指令所在的DOM
+| exceptRefs | 要排除的Ref,默认为指令所在的DOM | Array
 
 ## 开发命令
 
@@ -110,4 +113,4 @@ npm run prepublish
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2018 shijianan
+Copyright (c) 2018 [greenfavo](https://github.com/greenfavo)
