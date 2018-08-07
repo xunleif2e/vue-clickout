@@ -1,5 +1,5 @@
 {
-  "name": "vue-clickout",
+  "name": "@xunlei/vue-clickout",
   "description": "vue clickout事件",
   "version": "1.0.0",
   "private": false,

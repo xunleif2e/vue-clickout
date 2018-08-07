@@ -1,4 +1,4 @@
-# vue-clickout
+# @xunlei/vue-clickout
 
 > vue clickout,轻松解决“点击空白处消失”这种问题
 
