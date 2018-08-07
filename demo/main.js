@@ -3,7 +3,9 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import VueClickout from '../src/vue-clickout.js'
+const VueClickout = process.env.NODE_ENV === 'development'
+  ? require('../src/vue-clickout.js').default
+  : require('../dist/vue-clickout.js').default
 
 Vue.config.productionTip = false
 
